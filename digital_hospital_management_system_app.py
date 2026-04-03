@@ -104,7 +104,7 @@ if "logged_in_pid" not in st.session_state:
 # ===================== SIDEBAR =====================
 st.sidebar.image("https://cdn-icons-png.flaticon.com/512/2966/2966327.png", width=180)
 st.sidebar.markdown("## 🏥 Digital Hospital Management System")
-st.sidebar.markdown("Made by **Rabia Muneeb**")
+st.sidebar.markdown("Made by Muhammad Ali Kahoot**")
 
 menu = st.sidebar.radio("Select Option", ["Patient Registration", "Patient Login", "Staff Dashboard"])
 
